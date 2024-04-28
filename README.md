@@ -23,6 +23,8 @@ This project is an interactive web application developed using Streamlit, enabli
 
 Try your image with this application: https://sravan-gemini-project.streamlit.app/
 
+Medium blog: https://medium.com/@sravankumar.mode/️-image-analysis-and-blog-generation-application-using-gemini-api-and-streamlit-3b2ce0b7412b
+
 References: 
 1. https://ai.google.dev/gemini-api/docs/get-started/python?_gl=1*b4syjv*_up*MQ..&gclid=CjwKCAjwxLKxBhA7EiwAXO0R0CksL1V_R9li0u0LNjtsAUyt4GW3wD36VSacDdzDbrDELU_PC21ETBoCQt8QAvD_BwE
 2. https://pyfpdf.readthedocs.io/en/latest/
