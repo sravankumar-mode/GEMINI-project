@@ -1,3 +1,5 @@
+“The actor seen in the image is the one and only Superstar “Rajinikanth”.”  -- GEMINI Response
+
 # GEMINI-project
 🖼️🔍Image Analysis and Blog Generation Application using GEMINI API and Streamlit
 
