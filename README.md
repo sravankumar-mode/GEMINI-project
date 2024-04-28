@@ -20,3 +20,11 @@ Response: “The actor in the picture is Rajinikanth. He is an Indian actor who 
 The variations in responses demonstrate the AI model’s ability to interpret and analyze images in different contexts, resulting in nuanced and diverse textual descriptions. This dynamic nature of the Gemini API enriches the user experience and adds an element of unpredictability to the image analysis process.
 
 This project is an interactive web application developed using Streamlit, enabling image analysis through Google's Gemini AI model and blog content generation based on the analysis results. Leveraging the Gemini API, users can upload images for detailed analysis, with the Gemini Pro model enhancing blog content generation. Additionally, the application offers PDF generation for analysis reports. Streamlit facilitates frontend development, ensuring an intuitive user experience, while deployment to the cloud is streamlined. This project exemplifies the fusion of AI and web development, providing users with seamless image analysis and insightful content generation capabilities.
+
+Try your image with this application: https://sravan-gemini-project.streamlit.app/
+
+References: 
+1. https://ai.google.dev/gemini-api/docs/get-started/python?_gl=1*b4syjv*_up*MQ..&gclid=CjwKCAjwxLKxBhA7EiwAXO0R0CksL1V_R9li0u0LNjtsAUyt4GW3wD36VSacDdzDbrDELU_PC21ETBoCQt8QAvD_BwE
+2. https://pyfpdf.readthedocs.io/en/latest/
+3. https://streamlit.io/
+4. https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app
